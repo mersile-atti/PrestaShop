@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mariadb-env
+type: Opaque
+data:
+  MYSQL_ROOT_PASSWORD: password
