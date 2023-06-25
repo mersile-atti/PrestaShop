@@ -1,3 +1,3 @@
-mariadb-env.yaml
-prestashop-env.yaml
+mariadb-env
+prestashop
 .env
