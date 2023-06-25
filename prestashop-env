@@ -1,6 +1,0 @@
-DB_HOST: mariadb
-DB_PORT: 3306
-DB_DATABASE: prestashop
-DB_USERNAME: root
-DB_PASSWORD: password
-ALLOW_EMPTY_PASSWORD=yes
